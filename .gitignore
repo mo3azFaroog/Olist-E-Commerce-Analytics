@@ -1,0 +1,8 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary and backup files
+*.pbix.bak
+~$*
+.pbi/
